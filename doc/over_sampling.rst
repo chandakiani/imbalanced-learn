@@ -254,7 +254,7 @@ being "not apple", we expect new data generated belonging to the category
 Mathematical formulation
 ========================
 
-Sample generation
+Sample generation of code
 -----------------
 
 Both :class:`SMOTE` and :class:`ADASYN` use the same algorithm to generate new
